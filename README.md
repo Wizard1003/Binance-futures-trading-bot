@@ -92,7 +92,7 @@ python cli.py --symbol BTCUSDT --side BUY --type MARKET --quantity 0.001
 If everything's set up correctly, you'll see something like:
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║     Binance Futures Testnet Trading Bot v1.0.0           ║
+║     Binance Futures Testnet Trading Bot v1.0.0            ║
 ║     Professional Trading Bot for Educational Use          ║
 ╚═══════════════════════════════════════════════════════════╝
 
